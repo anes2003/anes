@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.scene.control.Accordion?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+
+<StackPane alignment="TOP_CENTER" prefHeight="608.0" prefWidth="1013.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="dev.ozz.layout.Center.Deptor.HistoryController">
+   <children>
+      <VBox maxWidth="-Infinity" minWidth="-Infinity" prefHeight="714.0" prefWidth="1013.0" styleClass="border-gray">
+         <children>
+            <ScrollPane hbarPolicy="NEVER" pannable="true" prefHeight="539.0" prefWidth="1011.0" VBox.vgrow="ALWAYS">
+               <content>
+                  <Accordion fx:id="historynumberaAccordion" />
+               </content>
+               <styleClass>
+                  <String fx:value="background2" />
+                  <String fx:value="border-gray" />
+               </styleClass>
+            </ScrollPane>
+         </children>
+      </VBox>
+   </children>
+</StackPane>

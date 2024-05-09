@@ -1,0 +1,52 @@
+[
+  {
+    "title": "What is a WDO Report",
+    "description": "What is a Wood Destroying Pest and Organism Inspection Report?\n\nThe following explains the scope and limitations of a structural pest control inspection and a Wood Destroying Pest & Organism Inspection Report.\n\nA Wood Destroying Pest & Organism Inspection Report contains finding as to the presence or absence of wood destroying insects or organisms in visible and accessible areas on the date of inspection and contains our recommendations for correcting any infestations, infections, or conditions found. The contents of the wood destroying pest & organism inspection report are governed by the structural pest control act and its rules and regulations.\n\nSome structures may not comply with building code requirements or may have structural, plumbing, electrical, heating and air conditioning, or other defects that do not pertain to this report. This report does not address any such defects and the water tightness of the structure as they are not within the scope of the license of the inspector or the company issuing this report.",
+    "type": 4656
+  },
+  {
+    "title": "Inaccessible Areas Clause",
+    "description": "The following areas are considered inaccessible for purposes of inspection or are not included in a normal inspection report and therefore are excluded in this report: the interior of hollow walls; spaces between an upstairs floor and the ceiling below or a porch deck and soffit below; stall showers over finished ceilings; such structural segments as areas enclosed by bay windows, buttresses, built in cabinet work, areas under floor covering; any areas requiring the removal of storage, furnishings or appliances; any areas to which there is no access without defacing or removing lumber, masonry or finished workmanship. However, probing may be necessary during the inspection process to determine the condition of the wood.",
+    "type": 4656
+  },
+  {
+    "title": "Not Inspected Clause",
+    "description": "Certain areas are recognized by the industry as inaccessible and/or for other reasons not inspected. These include but are not limited to: inaccessible and/or insulated attics or portions thereof, attics with less than 18 clear crawl space, the interior of hollow walls, spaces between a floor or porch deck and the ceiling below, areas where there is no access without defacing or tearing out lumber, masonry or finished work that make inspection impractical, and areas or timbers around eaves that would require use of an extension ladder. Whole house Fumigation is a treatment effective only for Drywood Termites. Fumigation is ineffective on subterranean termites considering the fumigant will not penetrate through concrete slab or underneath the soil where subterranean termite colonies forage for food and water within 250 feet radius of your property. In effect, subterranean termites is excluded from any guarantees arranged for the fumigation work completed on your property.  uring fumigation and aeration, the possibility of burglary exists as it does any time you leave your home. Therefore, we recommend that you take steps that you feel necessary to prevent any damage to your property against any loss, break ins or vandalism to your property. This company does not provide any on site security except as required by state or local ordinances and does not assume any responsibility for care and custody of the property for the prevention of vandalism, or break ins. \n\nCertain areas may be inaccessible for inspection due to construction or storage. We recommend further inspection of areas where inspection was impractical. Re: Structural Pest Control Act, Article 6, section 8516 (b), paragraph 1990 (I). Amended effective March 1, 1974. Stall shower, if any, are water tested in compliance with Section 1991 (12) of the Structural Pest Control Act. The absence or presence of leaks through sub-floor, adjacent floors or walls will be reported. This is a report of the condition of the stall shower at the time of inspection only, and should not be confused as a guarantee. Although we make a visual examination, we do not deface or probe into window or door frames, decorative trim, roof members, etc., in search of wood destroying pests or organisms and perform tests to determine the \"water tightness\" of certain sections of the property being inspected.",
+    "type": 4656
+  },
+  {
+    "title": "Re Inspection Clause",
+    "description": "This company will reinspect repairs done by others within four months of the original inspection. A charge, if any, can be no greater than the original inspection fee for each reinspection. The re inspection must be done within ten (10) working days of request. The reinspection is a visual inspection and if inspection of concealed areas is desired, inspection of work in progress will be necessary. Any guarantees must be received from parties performing repairs.",
+    "type": 4656
+  },
+  {
+    "title": "Plumbing Clause",
+    "description": "NOTE: We do not inspect or certify plumbing, plumbing fixtures, and electrical. We do not inspect, test or certify the \"water tightness\" of the structure including, but not limited to - roofing, window frames, sky lights or door insulations.",
+    "type": 4656
+  },
+  {
+    "title": "Roof Clause",
+    "description": "NOTE: The exterior surface of the roof was not inspected. If you want the water tightness of the roof determined, you should contract a roofing contractor who is licensed by the Contractor's State License Board.",
+    "type": 4656
+  },
+  {
+    "title": "Subcontract Profits",
+    "description": "Because of licensing requirements, state and federal laws or the nature of the tasks involved, we may sub-contract work to others. The charge for service that this company subcontracts to another registered company may include the company's charges for arranging and administering such services that are in addition to the direct costs associated with paying the subcontractor. You may accept Avertapest's bid or you may contract directly with another company to perform the work. If you  hoose to contract directly with another company, Avertapest will not in any way be responsible for any act or omission in the performance of work that you directly contract with another to perform.",
+    "type": 4656
+  },
+  {
+    "title": "Second Opinion Disclosure",
+    "description": "NOTICE: Reports on this structure prepared by various registered companies should list the same findings (i.e. termite infestations, termite damage, fungus damage, etc.). However, recommendations to correct these findings may vary from company to company. You have a right to seek a second opinion from another company.",
+    "type": 4656
+  },
+  {
+    "title": "Excludes Mold Clause",
+    "description": "This Wood Destroying Pest & Organisms Report DOES NOT INCLUDE MOLD or any mold like conditions. No reference will be made to mold or mold-like conditions. Mold is not a Wood Destroying Organism and is outside the scope of this report as defined by the Structural Pest Control Act. If you wish your property to be inspected for mold or mold like conditions, please contact the appropriate mold professional.",
+    "type": 4656
+  },
+  {
+    "title": "Local Treatment Clause",
+    "description": "Local treatment is not intended to be an entire structure treatment method. If infestations or wood-destroying pests extend or exist beyond the area(s) of local treatment, they may not be exterminated.",
+    "type": 4656
+  }
+]

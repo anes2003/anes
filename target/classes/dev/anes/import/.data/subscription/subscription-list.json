@@ -1,0 +1,18 @@
+[
+    {
+        "type" : "A",
+        "price" : 650.0,
+        "description" : "1-month License (for 1 PC)",
+        "solo" : true,
+        "monthly" : true,
+        "yearly" : false
+    },
+    {
+        "type" : "B",
+        "price" : 1050.0,
+        "description" : "1-month License (2 or more)",
+        "solo" : false,
+        "monthly" : true,
+        "yearly" : false
+    }
+]

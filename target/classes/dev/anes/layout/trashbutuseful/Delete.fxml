@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+
+<VBox alignment="CENTER" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="dev.ozz.layout.Deptor.DeleteController">
+   <children>
+      <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity">
+         <children>
+            <VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="266.0" prefWidth="461.0" spacing="30.0" styleClass="login-main-background">
+               <children>
+                  <Label text="Are you sure? you want delete this">
+                     <font>
+                        <Font size="22.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="text" text="Label">
+                     <font>
+                        <Font size="26.0" />
+                     </font>
+                  </Label>
+                  <Label text="Permanently?">
+                     <font>
+                        <Font size="22.0" />
+                     </font>
+                  </Label>
+                  <HBox alignment="CENTER" spacing="170.0">
+                     <children>
+                        <Button mnemonicParsing="false" onAction="#handledelete" prefHeight="25.0" prefWidth="105.0" text="Delete" />
+                        <Button mnemonicParsing="false" onAction="#handleExit" prefHeight="25.0" prefWidth="105.0" text="cancel" />
+                     </children>
+                  </HBox>
+               </children>
+            </VBox>
+         </children>
+         <styleClass>
+            <String fx:value="a-main-border" />
+            <String fx:value="a-main-background" />
+         </styleClass>
+      </AnchorPane>
+   </children>
+</VBox>
